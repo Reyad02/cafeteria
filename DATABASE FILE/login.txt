@@ -1,0 +1,16 @@
+011203011   -----> 12345
+011203004   -----> 12345
+011221427   -----> 09876
+FAH  	    -----> qwert
+RRK         -----> poiuy
+Seller1	    -----> seller1
+Seller2     -----> seller2
+Seller3     -----> seller3
+Seller4     -----> seller4
+admin 	    -----> admin
+MAA 	    -----> 12345
+
+main color-->#5d9e5f
+
+#ff6b81
+#ff4757
